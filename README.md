@@ -11,6 +11,7 @@
 
 ### What I'm working on
 
+- **[site-audit](https://github.com/Irnist/site-audit):** a small app that audits a small-business website and writes a plain-language report the owner can read, as HTML and PDF. It checks speed with Lighthouse, phone layout, local SEO, accessibility, broken links and trust signals, then ranks each problem by what to fix first.
 - **[website-pipeline](https://github.com/Irnist/website-pipeline):** a Claude Code skill that takes a small-business website from a short brief to a tested, deployed preview. Its automated QA checks every page at phone and desktop widths for overflow, contrast, accessibility (axe-core), Lighthouse scores and local SEO. Every mistake I catch becomes a new check.
 - **[portfolio](https://github.com/Irnist/portfolio):** the source of my portfolio site. It's static HTML, CSS and JavaScript built by a small Python script and hosted on Cloudflare Pages.
 
@@ -27,7 +28,7 @@ You'll find more concept sites and my graphic design work on the [portfolio](htt
 
 ### Tools I use
 
-`HTML` `CSS` `JavaScript` `Python` `GSAP` `WordPress` `Duda` `Cloudflare Pages` `Claude Code` `Photoshop` `Illustrator` `Lightroom` `Canva`
+`HTML` `CSS` `JavaScript` `Node.js` `Python` `GSAP` `WordPress` `Duda` `Cloudflare Pages` `Claude Code` `Photoshop` `Illustrator` `Lightroom` `Canva`
 
 ---
 
