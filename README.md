@@ -12,6 +12,7 @@
 ### What I'm working on
 
 - **[site-audit](https://github.com/Irnist/site-audit):** a small app that audits a small-business website and writes a plain-language report the owner can read, as HTML and PDF. It checks speed with Lighthouse, phone layout, local SEO, accessibility, broken links and trust signals, then ranks each problem by what to fix first.
+- **[booking-widget](https://github.com/Irnist/booking-widget):** online booking any small-business site can add with two lines of HTML, plus a simple inbox where the owner confirms requests. It runs on Cloudflare Workers and D1, so two people can never book the same slot, and it stays readable in any brand colour. [Live demo](https://booking-widget.ebanigon-previews.workers.dev/).
 - **[website-pipeline](https://github.com/Irnist/website-pipeline):** a Claude Code skill that takes a small-business website from a short brief to a tested, deployed preview. Its automated QA checks every page at phone and desktop widths for overflow, contrast, accessibility (axe-core), Lighthouse scores and local SEO. Every mistake I catch becomes a new check.
 
 ### Live client sites
